@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekday">
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
+    </string-array>
+    <string-array name="weekday_short">
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
+    </string-array>
+    <string-array name="family_memeber_names">
+        <item>Conjoint</item>
+        <item>Papa</item>
+        <item>Maman</item>
+        <item>Fils</item>
+        <item>Fille</item>
+        <item>Cousin</item>
+        <item>Autre membre</item>
+    </string-array>
+    <integer-array name="corridor_time">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </integer-array>
+</resources>
