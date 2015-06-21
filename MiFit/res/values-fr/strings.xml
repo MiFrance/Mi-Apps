@@ -853,7 +853,7 @@ Touchez pour ajouter un nouvel utilisateur à la balance."</string>
     <string name="detial_ampm_format_hhmmss">hh:mm:ss a</string>
     <string name="dynamic_title_weight_not_nearby">Impossible de trouver la balance</string>
     <string name="not_set">N/A</string>
-    <string name="weight_less_than_tips">According to your BMI info, your recommended weight is less than %1$s.</string>
+    <string name="weight_less_than_tips">Selon votre IMC, votre poids conseillé est inférieur à %1$s.</string>
     <string name="weight_goal_height_100">Set a weight goal</string>
     <string name="set">Régler</string>
     <string name="no_need_weight_goal">"Supprimer l'objectif de poids ?"</string>
@@ -861,7 +861,7 @@ Touchez pour ajouter un nouvel utilisateur à la balance."</string>
     <string name="can_not_del_last_weight_info">"Can't remove weight"</string>
     <string name="set_family_member">Set users</string>
     <string name="pick_family_member">"Choisir l'utilisateur"</string>
-    <string name="bmi_item_tips">BMI: %1$s (%2$s)</string>
+    <string name="bmi_item_tips">IMC: %1$s (%2$s)</string>
     <string name="over_the_max_user_count">"Scale can't exceed 16 users."</string>
     <string name="current_weight">Poids actuel</string>
     <string name="exceed_user_percentage">Beat %1$s of users</string>
@@ -962,11 +962,11 @@ Touchez pour ajouter un nouvel utilisateur à la balance."</string>
     <string name="baby_weight_too_small_weight">No significant change in weight was detected. Are you holding the infant?</string>
     <string name="give_up">Annuler</string>
     <string name="weight_ref">References</string>
-    <string name="cannot_figure_bmi_causedby_height">"Can't calculate BMI for height less than 1 meter"</string>
-    <string name="cannot_figure_bmi_causedby_age">"Can't calculate BMI for ages less than 7"</string>
+    <string name="cannot_figure_bmi_causedby_height">"Il faut mesurer au moins 1m pour le calcul de l'IMC"</string>
+    <string name="cannot_figure_bmi_causedby_age">"Il faut avoir au moins 7 ans pour le calcul de l'IMC"</string>
     <string name="china_adult_overweight_ref">"People's Republic of China Adult Obesity Prevention Guidelines"</string>
     <string name="china_child_overweight_ref">"People's Republic of China Child Obesity Standards"</string>
-    <string name="baby_weight_notify_title">Weigh your infant using Mi Scale</string>
+    <string name="baby_weight_notify_title">Pesez votre enfant avec la Mi Scale</string>
     <string name="baby_weight_notify_content">Appuyez pour afficher plus.</string>
     <string name="baby_weight_report_monthyear_templates0">%2$s months - %1$s</string>
     <string name="baby_weight_report_monthyear_templates1">%1$s months</string>
