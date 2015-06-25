@@ -365,6 +365,7 @@ Status"</string>
     <string name="firmware_upgrade_failed_time_out">"Délai de connection dépassé.
     Mise à jour du firmware impossible."</string>
     <string name="firmware_upgrade_failed_no_space">"L'espace disponible sur votre carte SD est insuffisant. Faites de la place et réessayer."</string>
+    <string name="firmware_upgrade_failed_put_file_failed">Mise à jour échouée, veuillez réessayer.</string>
     <string name="firmware_upgrade_failed_sd_card_remove">"Pas de carte SD.
  Insérer une carte SD et réessayer."</string>
     <string name="sure_to_cancel_firmware_upgrade">Voulez-vous le mettre à jour ?</string>
