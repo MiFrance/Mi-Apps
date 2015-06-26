@@ -79,7 +79,7 @@ wait for 5s"</string>
     <string name="shoes_fetching">Fetching</string>
     <string name="shoes_fetching_failed">Failed</string>
     <string name="data_not_supported">--</string>
-    <string name="running_helper">Suivi d'itinéraire</string>
+    <string name="running_helper">"Suivi d'itinéraire"</string>
     <string name="running_no_gps">Use GPS to keep track of your route.</string>
     <string name="running_set_speed">Set speed</string>
     <string name="running_speed">Speed</string>
@@ -184,7 +184,7 @@ CLUF : %2$s"</string>
     <string name="statistic_detail">Détails</string>
     <string name="day_active_detail">Détails</string>
     <string name="alarm">Alarme</string>
-    <string name="unlock_screen">Unlock device using band</string>
+    <string name="unlock_screen">Déverrouillage de votre téléphone</string>
     <string name="about">À propos</string>
     <string name="unit_kilometer">" km"</string>
     <string name="unit_meter">" m"</string>
@@ -229,7 +229,7 @@ CLUF : %2$s"</string>
     <string name="unit_metric">Système métrique</string>
     <string name="unit_british">Imperial System</string>
     <string name="unit_metric_detail">Système métrique (mètre, kilomètre)</string>
-    <string name="unit_british_detail">Imperial System (inch, mile)</string>
+    <string name="unit_british_detail">Système Imperial (inch, mile)</string>
     <string name="cm">cm</string>
     <string name="metre">m</string>
     <string name="unit_inch">" inches"</string>
@@ -454,8 +454,8 @@ se réveiller"</string>
     <string name="start_weixin_not_installed">WeChat (non installé)</string>
     <string name="action_pop_about">À propos</string>
     <string name="find_bracelet">Trouver le band</string>
-    <string name="light_color">Progress light color</string>
-    <string name="light_color_title">Light color that shows progress towards your goal</string>
+    <string name="light_color">Couleur des Led</string>
+    <string name="light_color_title">Les Leds vous indiqueront le status de votre objectif</string>
     <string name="wear_hand">Localisation du bracelet</string>
     <string name="left_hand">Main gauche</string>
     <string name="right_hand">Main droite</string>
@@ -463,7 +463,7 @@ se réveiller"</string>
     <string name="unbind_short">Dissocier</string>
     <string name="firmware_version">Version du firmware</string>
     <string name="step_per_day"> pas par jour</string>
-    <string name="remain_days_format">Chargé %s jours auparavant</string>
+    <string name="remain_days_format">Dernière charge, il y a %s jours</string>
     <string name="remain_days_today_format">Chargé dans les dernières 24H</string>
     <string name="blue">Bleu</string>
     <string name="red">Rouge</string>
@@ -501,7 +501,7 @@ se réveiller"</string>
     <string name="share_step_goal_succ_title">Chemin à parcourir !</string>
     <string name="share_step_goal_failed_title_today">"Aujourd'hui"</string>
     <string name="share_step_goal_failed_title">Total</string>
-    <string name="share_step_description">"Walked %1$s, burned %2$s Cal.
+    <string name="share_step_description">"MArche %1$s, Calories %2$s
 "</string>
     <string name="share_step_description_run">"Walked %1$s, ran %2$s.
 Burned %3$s Cal.
@@ -538,9 +538,9 @@ Fell asleep at %5$s, Woke up at %6$s"</string>
     <string name="unlock_screen_set_password">Set a screen lock for this device</string>
     <string name="unlock_screen_set_use_bracelet_tips">2. Unlock device with band</string>
     <string name="unlock_screen_set_use_bracelet">Unlock this device with your band.</string>
-    <string name="unlock_screen_set_success">You can unlock this device with your band.</string>
-    <string name="unlock_screen_modify_unlock_v5">You can turn this feature on or off any time in Settings > Security > Screen security</string>
-    <string name="unlock_screen_modify_unlock_v6">You can turn this feature on or off any time in Settings > Lock screen > Unlock with Bluetooth device</string>
+    <string name="unlock_screen_set_success">Vous pouvez déverrouiller votre téléphone avec votre Mi Band.</string>
+    <string name="unlock_screen_modify_unlock_v5">Vous pouvez changer cette fonction en allant dans Réglages > Ecran de verrouillage > Déverrouiller via un périphérique Bluetooth</string>
+    <string name="unlock_screen_modify_unlock_v6">Vous pouvez changer cette fonction en allant dans Réglages > Ecran de verrouillage > Déverrouiller via un périphérique Bluetooth</string>
     <string name="unlock_for_smartlock_tip">"Cette fonction nécéssite l'application Mi Fit pour pouvoir être ouverte en arrière plan"</string>
     <string name="unlock_for_smartlock_tip_step1">1. Allez à <b>Paramètres</b> - <b>Sécurité</b></string>
     <string name="unlock_for_smartlock_tip_step2">2. Paramétrez le <b>"Vérouillage d'écran"</b> avec un schéma, PIN, ou mot de passe</string>
@@ -757,7 +757,7 @@ Fell asleep at %3$s, Woke up at %4$s"</string>
     <string name="connecting">Connexion…</string>
     <string name="multi_weight_devices_info">Redémarrer Bluetooth et réessayer.</string>
     <string name="look_weight_device_list">Afficher les balances a proximité</string>
-    <string name="family_member">User</string>
+    <string name="family_member">Utilisateur</string>
     <string name="user_staron_me">Abonnées</string>
     <string name="weight_measure">Poids</string>
     <string name="baby_weight">Nourrisson</string>
@@ -844,8 +844,8 @@ Saved %2$s gallons of gas."</string>
     <string name="daily_sport_report_notify">You walked %s today!</string>
     <string name="daily_sport_report_notify_content">Appuyez pour voir les détails.</string>
     <string name="exceed_user">Beat</string>
-    <string name="setting_daily_sport_notify_info">Show daily activity stats notification at 9:30PM</string>
-    <string name="setting_daily_sport_notify">Activity stats notification</string>
+    <string name="setting_daily_sport_notify_info">Recevez une notification à 9:30PM</string>
+    <string name="setting_daily_sport_notify">"Notification d'activité"</string>
     <string name="daily_sport_report_notify_hurry">"Encore %1$s pas pour atteindre l'objectif d'aujourd'hui !"</string>
     <string name="weight_overload_title">Trop de poids sur la balance</string>
     <string name="weight_overload_content">La limite de poids de la balance est de 150kg</string>
@@ -958,7 +958,7 @@ Touchez pour ajouter un nouvel utilisateur à la balance."</string>
     <string name="weibosdk_toast_binded">This account is already associated with another Weibo Account</string>
     <string name="upload_log_ok">Log sent</string>
     <string name="upload_log_fail">"Couldn't send log"</string>
-    <string name="set_weight_goal_tips">Hi %1$s! Try setting a target weight goal.</string>
+    <string name="set_weight_goal_tips">Bonjour %1$s! Vous pouvez définir un objectif.</string>
     <string name="tips">RAPPEL</string>
     <string name="alarm_tips">"Le Mi-Fit s'arrêtera de vibrer automatiquement lorsqu'il détectera que vous êtes levé. Touchez le capteur du Mi-Fit à tout moment pour arrêter l'alarme manuellement. "</string>
     <string name="prepare_log">Juste une seconde…</string>
@@ -1025,7 +1025,7 @@ Touchez pour ajouter un nouvel utilisateur à la balance."</string>
     <string name="generate_user_succ">Utilisateur créé</string>
     <string name="weight_match_no_user">Sélectionner utilisateur</string>
     <string name="miid_not_support">The Mi Account ID you entered is invalid.</string>
-    <string name="other">ADDITIONAL SETTINGS</string>
+    <string name="other">Réglages additionnels</string>
     <string name="body_standard_ref">Weight reference</string>
     <string name="family_member_info">Family info</string>
     <string name="on">ACTIVÉ</string>
