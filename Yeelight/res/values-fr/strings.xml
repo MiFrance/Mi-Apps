@@ -77,7 +77,10 @@
     <string name="ota_success">Mise à jour terminée</string>
     <string name="fw_ota_back_to_main">Retour</string>
     <string name="fw_new_version">Dernière version du firmware : %1$s</string>
-    <string name="fw_ota_introduce">"Ne pas déconnecter l'alimentation et le bluetooth pendant la mise à jour. La lampe redémarrera automatique."</string>
+    <string name="fw_ota_introduce">Laissez la lampe connectée et allumée pendant la mise à jour. Elle redémarrera automatiquement.</string>
+    <string name="fw_ota_btn_nexttime">Prochaine mise à jour</string>
+    <string name="fw_ota_btn_tryagain">Réessayer</string>
+    <string name="fw_ota_failure">Mise à jour échouée</string>
     <string name="recovery">"Restaurer les réglages d'usine"</string>
     <string name="recovery_btn_text">Réinitialiser</string>
     <string name="recovery_info">La réinitialisation efface tous vos réglages (nom, couleur...).</string>
