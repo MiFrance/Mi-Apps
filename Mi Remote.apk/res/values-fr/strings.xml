@@ -464,7 +464,7 @@ Pour activer votre compte, suivez le
     <string name="click_to_shrink">点击收回</string>
     <string name="add_more">添加更多红外设备</string>
     <string name="gamepad">Gamepad</string>
-    <string name="gamepad_rule">Ne fonctionne pas à l'horizontale</string>
+    <string name="gamepad_rule">"Ne fonctionne pas à l'horizontale"</string>
     <string name="feedback">Commentaire</string>
     <string name="check_upgrade">Vérifiez les mise à jour</string>
     <string name="current_version_frame">Version actuelle %s</string>
