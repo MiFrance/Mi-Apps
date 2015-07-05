@@ -302,8 +302,8 @@ Pour activer votre compte, suivez le
     <string name="management_app_management">Apps</string>
     <string name="management_settings">Paramètres</string>
     <string name="connected">Connecté</string>
-    <string name="privacy_title">Conditions d\'utilisation</string>
-    <string name="privacy_content">"En utilisant ce produit, vous êtes d'accord avec notre <u>Politique de confidentialité</u> et nos <u>Conditions d'utilisation</u>. Mi Remote a besoin de se connecter à internet pour fonctionner normalement."</string>
+    <string name="privacy_title">"Conditions d'utilisation"</string>
+    <string name="privacy_content">"En utilisant ce produit, vous êtes d'accord avec notre Politique de confidentialité et nos Conditions d'utilisation. Mi Remote a besoin de se connecter à internet pour fonctionner normalement."</string>
     <string name="privacy_nohit">"Ne plus afficher"</string>
     <string name="ir_device_air_cleaner">Purificateur d\'air Mi</string>
     <string name="ir_device_air_condition">A/C</string>
