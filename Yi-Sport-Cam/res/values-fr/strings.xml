@@ -564,6 +564,7 @@ Status"</string>
     <string name="faq_boot_shut">Alimentation</string>
     <string name="faq_others">Autres</string>
     <string name="recording_sound_not_allowed">"La résolution actuelle ne prend pas en charge l'enregistrement sonore"</string>
+    <string name="recording_frame_not_allowed">La résolution actuelle ne prend pas en charge le Time-laspe</string>
     <string name="upload_failed">Transfert échoué ! Ré-essayer</string>
     <string name="wait_for_download_complete">Attendre la fin du téléchargement de la vidéo!</string>
     <string name="network_disconnect">"Le réseau n'est pas disponible"</string>

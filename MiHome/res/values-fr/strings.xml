@@ -735,6 +735,11 @@ Après avoir remplacé et activé le filtre, appuyez sur le bouton de réinitial
     <string name="passcode_enter_old_passcode">"Entrez l'ancien mot de passe"</string>
     <string name="passcode_re_enter_passcode">Entrez à nouveau le mot de passe</string>
     <string name="passcode_change_passcode">Changez le mot de passe</string>
+    <string name="passcode_set">Entrer le mot de passe</string>
+    <string name="passcode_wrong_passcode">Mauvais mot de passe, réessayer</string>
+    <string name="passcode_verify">Vérifier Le Mot De Passe</string>
+    <string name="passcode_set_success">Le mot de passe a été défini</string>
+    <string name="passcode_disable_verify_msg">Entrer le mot de passe actuel pour le désactiver</string>
     <string name="camera_config_no_uid">Identifiant de la caméra vide</string>
     <string name="camera_config_not_support">Le téléphone actuel ne supporte pas la connexion aux caméras</string>
     <string name="camera_config_no_localdevice">Connexion échouée, veuillez actualiser la liste des tentatives</string>
@@ -1851,6 +1856,13 @@ Appui long pour revenir"</string>
     <string name="smarthome_to_user_status_reject">Rejeter</string>
     <string name="smarthome_to_user_status_accept">Accepter</string>
     <string name="scene_save">Enregistrer</string>
+    <string name="sunday">Dimanche</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
     <string name="scene_if">Si</string>
     <string name="scene_if_extra">(condition)</string>
     <string name="scene_then">Alors</string>
