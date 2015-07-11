@@ -47,7 +47,8 @@
     <string name="alarm_disable">Désactivée</string>
     <string name="delay_light">"Délai d'extinction"</string>
     <string name="delay_light_time">%1$d minutes</string>
-    <string name="delay_light_time_detail">"Extinction automatique au bout de %1$d"</string>
+    <string name="delay_light_time_detail">"Extinction automatique
+    au bout de %1$d"</string>
     <string name="mi_band">Mi Band</string>
     <string name="mi_band_search_title">Recherche du Mi Band</string>
     <string name="mi_band_search_sub_text">Assurez vous que le téléphone soit  proximité du Mi Band</string>
@@ -55,8 +56,12 @@
     <string name="mi_band_nodevice_sub_text">Assurez vous que le téléphone soit  proximité du Mi Band</string>
     <string name="mi_band_nodevice_btn_text">Rechercher</string>
     <string name="mi_band_single_title">Mi Band trouvé</string>
-    <string name="mi_band_single_sub_text">Votre Mi Band éteindra votre Yeelight pendant votre sommeil</string>
+    <string name="mi_band_single_sub_text">Votre Mi Band éteindra votre Yeelight
+    pendant votre sommeil</string>
     <string name="mi_band_single_btn_text_bind">Ok</string>
+    <string name="mi_band_single_btn_text_quick">Appairage rapide</string>
+    <string name="mi_band_bind_title_bind">Connection au Mi Band réussi</string>
+    <string name="mi_band_bind_unbind_title">Mi Band non connecté</string>
     <string name="mi_band_bind_title">Réglages du Mi Band</string>
     <string name="mi_band_bind_sub_text">Votre Mi Band éteindra votre Yeelight pendant votre sommeil</string>
     <string name="mi_band_bind_control_set">Réglages</string>
