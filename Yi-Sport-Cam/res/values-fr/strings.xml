@@ -615,6 +615,24 @@ automatiquement après avoir entré le mot de passe de restauration 1234567890"<
     <string name="upgrade_one_more">Réessayer</string>
     <string name="upgrade_help">"Voir l'aide"</string>
     <string name="understand">Ok</string>
+    <string name="firmware_downloaded">v%s Téléchargé</string>
+    <string name="firmware_tip_downloaded">Nouveau</string>
+    <string name="firmware_downloading">Téléchargement (%s%%)</string>
+    <string name="firmware_pausing">Pause (%s%%)</string>
+    <string name="new_firmware_downloaded">Connectez la caméra pour la mise à jour</string>
+    <string name="firmware_paused">Pause</string>
+    <string name="firmware_total_downloaded">%sMB Téléchargé</string>
+    <string name="firmware_download_title">Téléchargement du Firmware</string>
+    <string name="firmware_download_tip">Le Wi-Fi n'est pas activé, télécharger le firmware va utiliser votre réseau Data, voulez-vous continuer ?</string>
+    <string name="minutes_3">3 minutes</string>
+    <string name="minutes_5">5 minutes</string>
+    <string name="minutes_10">10 minutes</string>
+    <string name="faq_title">Questions</string>
+    <string name="sns_guide_connect_camera">Connection de la caméra</string>
+    <string name="switch_mode">Mode switch</string>
+    <string name="exit_cancle_firmware_download">Quitter suspendra le téléchargement, voulez-vous continuer ?</string>
+    <string name="firmware_upgrade_failure">Mise à jour du firmware échouée !</string>
+    <string name="firmware_only_downloaded">Téléchargé</string>
     <string name="xiaomi_update_dialog_title">%1$sNouvelle version</string>
     <string name="xiaomi_update_dialog_message">"Nous vous recommandons d'installer la dernière version%1$s
 Size: %2$s"</string>
