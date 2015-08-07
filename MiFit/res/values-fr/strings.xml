@@ -23,6 +23,7 @@
     <string name="action_loading">Chargement</string>
     <string name="come_from_xiaomi_bracelet">Mi Fit</string>
     <string name="dialog_confirm">Confirmer</string>
+    <string name="actionbar_menu">Menu</string>
     <string name="alert_title_unable_start_camera">Impossible de démarrer la caméra</string>
     <string name="alert_body_unable_start_camera">Vérifier les permissions de la caméra</string>
     <string name="title_activity_heart_rate_main">HeartRateMainActivity</string>
@@ -38,6 +39,7 @@
     <string name="pull_to_refresh_from_bottom_pull_label">Charger plus</string>
     <string name="pull_to_refresh_from_bottom_release_label">Tirez pour rafraîchir</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Tirez pour rafraîchir</string>
+    <string name="shoes_package_name">com.xiaomi.hm.health.shoes</string>
     <string name="shoes_smart_shoes">%sSmart Shoes</string>
     <string name="shoes_guangsu">Guang Su</string>
     <string name="shoes_used_distance">Life Span</string>
@@ -80,6 +82,8 @@ wait for 5s"</string>
     <string name="shoes_fetching_failed">Failed</string>
     <string name="data_not_supported">--</string>
     <string name="running_helper">"Suivi d'itinéraire"</string>
+    <string name="running_signal_strong">Disponible</string>
+    <string name="running_signal_none">Eteint</string>
     <string name="running_no_gps">Utilisez le GPS pour garder une trace de votre trajet.</string>
     <string name="running_set_speed">Réglage de la vitesse</string>
     <string name="running_speed">Vitesse</string>
@@ -99,6 +103,9 @@ wait for 5s"</string>
     <string name="running_long_press_to_pause">Pause : App. long</string>
     <string name="running_resume">Reprendre</string>
     <string name="running_stop">Stop</string>
+    <string name="running_state_paused">Pause</string>
+    <string name="running_state_stopped">Stop</string>
+    <string name="running_gps_turnon">Allumer</string>
     <string name="running_gps_turnon">Activer</string>
     <string name="running_gps_cancel">Annuler</string>
     <string name="running_settings">Réglages</string>
