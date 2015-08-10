@@ -79,10 +79,10 @@
     <string name="mi_band_bind_unbind_title">Mi Band non connecté</string>
     <string name="mi_band_bind_unbindtext">Mi Band non connecté</string>
     <string name="mi_band_nodevice_btn_text">Rechercher</string>
-    <string name="mi_band_nodevice_sub_text">Assurez vous que le téléphone soit  proximité du Mi Band</string>
+    <string name="mi_band_nodevice_sub_text">Assurez vous que le téléphone soit proximité du Mi Band</string>
     <string name="mi_band_nodevice_title">Pas de Mi Band trouvé</string>
-    <string name="mi_band_open_broadcast">确认开启手环蓝牙广播，以正常使用睡眠关灯功能</string
-    <string name="mi_band_search_sub_text">Assurez vous que le téléphone soit  proximité du Mi Band</string>
+    <string name="mi_band_open_broadcast">确认开启手环蓝牙广播，以正常使用睡眠关灯功能</string>
+    <string name="mi_band_search_sub_text">Assurez vous que le téléphone soit proximité du Mi Band</string>
     <string name="mi_band_search_title">Recherche du Mi Band</string>
     <string name="mi_band_single_btn_text_bind">Ok</string>
     <string name="mi_band_single_btn_text_quick">Appairage rapide</string>
