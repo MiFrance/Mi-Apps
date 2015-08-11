@@ -21,7 +21,7 @@
     <string name="alarm_set_time">Réglage de la minuterie</string>
     <string name="alarm_switch_on">On</string>
     <string name="alarm_switch_off">Off</string>
-    <string name="alarm_switch">Alarm task</string>
+    <string name="alarm_switch">Alarme</string>
     <string name="alert_dialog_cancel">Annuler</string>
     <string name="alert_dialog_fok">Ok</string>
     <string name="alert_dialog_text_entry">Renommer</string>
@@ -81,7 +81,7 @@
     <string name="mi_band_nodevice_btn_text">Rechercher</string>
     <string name="mi_band_nodevice_sub_text">Assurez vous que le téléphone soit proximité du Mi Band</string>
     <string name="mi_band_nodevice_title">Pas de Mi Band trouvé</string>
-    <string name="mi_band_open_broadcast">确认开启手环蓝牙广播，以正常使用睡眠关灯功能</string>
+    <string name="mi_band_open_broadcast">Confirmer la connection du Mi Band</string>
     <string name="mi_band_search_sub_text">Assurez vous que le téléphone soit proximité du Mi Band</string>
     <string name="mi_band_search_title">Recherche du Mi Band</string>
     <string name="mi_band_single_btn_text_bind">Ok</string>
