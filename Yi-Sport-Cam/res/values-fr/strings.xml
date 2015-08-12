@@ -1,5 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">"Une application demande l'installation des services Google Play."</string>
+    <string name="common_google_play_services_notification_needs_update_title">Une application demande la mise à jour des services Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">"Une application nécessite une mise à jour du Bios de l'application Android Wear."</string>
+    <string name="common_google_play_services_needs_enabling_title">"Une application demande l'activation des services Google Play."</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">"Notification issue de l'application \"%1$s\""</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre téléphone.</string>
+    <string name="common_google_play_services_install_text_tablet">Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre tablette.</string>
+    <string name="common_google_play_services_install_button">Installer services Google Play</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_enable_text">"Cette application ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_button">Activer services Google Play</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_android_wear_update_title">Mettre à jour Android Wear</string>
+    <string name="common_google_play_services_update_text">"Cette application ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_android_wear_update_text">"Cette application ne fonctionnera pas tant que vous n'aurez pas mis à jour l'application Android Wear."</string>
+    <string name="common_google_play_services_network_error_title">Erreur réseau</string>
+    <string name="common_google_play_services_network_error_text">"Vous devez disposer d'une connexion de données pour utiliser les services Google Play."</string>
+    <string name="common_google_play_services_invalid_account_title">Compte erroné</string>
+    <string name="common_google_play_services_invalid_account_text">"Le compte indiqué n'existe pas sur cet appareil. Veuillez sélectionner un autre compte."</string>
+    <string name="common_google_play_services_unknown_issue">Problème inconnu avec les services Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Services Google Play</string>
+    <string name="common_google_play_services_unsupported_text">"Les services Google Play, dont dépendent certaines de vos applications, ne sont pas compatibles avec votre appareil. Veuillez contacter le fabricant pour obtenir de l'aide."</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_signin_button_text">Connexion</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="commono_google_play_services_api_unavailable_text">"Cette application nécessite un ou plusieurs services Google Play qui ne sont pas disponibles actuellement. Veuillez contacter le développeur pour obtenir de l'aide."</string>
+    <string name="common_google_play_services_sign_in_failed_title">Échec de la connexion</string>
+    <string name="common_google_play_services_sign_in_failed_text">Erreur lors de la connexion au compte indiqué. Veuillez en sélectionner un autre.</string>
     <string name="instapager_login_html" formatted="false">&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"> &lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\"> &lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\"> &lt;title>%s&lt;/title> &lt;style type=\"text/css\"> body{margin:0;padding:0} .inputstyle { -webkit-tap-highlight-color:rgba(255,255,255,0); width:100%%; height:44px; color:#000; background:0; border:0; font-size:16px; outline: none; -webkit-appearance:none } .btn { width:90%%; height:44px; line-height:44px; background:#A0C035; border:0; border-radius:4px; color:#fff; font-size:16px; text-align:center; margin-top:15px; display:block } .btn:disabled { background: #dddddd; } .error { color:red; } &lt;/style> &lt;/head> &lt;body> &lt;script type=\"text/javascript\"> function login(form){ var u=form[\"u\"].value,p=form[\"p\"].value; if(!u || !p) return false; form[\"s\"].disabled = true; return true; } &lt;/script> &lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\"> %s &lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\"> &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/> &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/> &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/> &lt;/div> &lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\" %s \" class=\"btn\"/>&lt;/p> &lt;/form> &lt;/body> &lt;/html></string>
     <string name="cancel">Annuler</string>
     <string name="finish">Terminé</string>
@@ -599,7 +630,8 @@ Status"</string>
     <string name="share_to_all">Partager avec tout le monde</string>
     <string name="home_camera_dialog_reset_title">"Comment restaurer les paramètres d'usine?"</string>
     <string name="home_camera_dialog_reset_content">"Appuyer en même temps sur le bouton Power + le Wifi, la caméra redémarrera 
-automatiquement après avoir entré le mot de passe de restauration 1234567890"</string>
+automatiquement après avoir entré le mot de passe
+de restauration 1234567890"</string>
     <string name="home_camera_dialog_help_title">Impossible de trouver la caméra ?</string>
     <string name="home_camera_dialog_help_content">"Ouvrir la trappe, enlever la batterie et trouver le code SN : YDXJ et 7 caractères"</string>
     <string name="button_forget_pwd">Oublie du mot de passe wifi ?</string>
@@ -623,7 +655,7 @@ automatiquement après avoir entré le mot de passe de restauration 1234567890"<
     <string name="firmware_paused">Pause</string>
     <string name="firmware_total_downloaded">%sMB Téléchargé</string>
     <string name="firmware_download_title">Téléchargement du Firmware</string>
-    <string name="firmware_download_tip">Le Wi-Fi n'est pas activé, télécharger le firmware va utiliser votre réseau Data, voulez-vous continuer ?</string>
+    <string name="firmware_download_tip">"Le Wi-Fi n'est pas activé, télécharger le firmware va utiliser votre réseau Data, voulez-vous continuer ?"</string>
     <string name="minutes_3">3 minutes</string>
     <string name="minutes_5">5 minutes</string>
     <string name="minutes_10">10 minutes</string>
@@ -631,8 +663,19 @@ automatiquement après avoir entré le mot de passe de restauration 1234567890"<
     <string name="sns_guide_connect_camera">Connection de la caméra</string>
     <string name="switch_mode">Mode switch</string>
     <string name="exit_cancle_firmware_download">Quitter suspendra le téléchargement, voulez-vous continuer ?</string>
+    <string name="camera_timelaps_internal">Intervale</string>
+    <string name="camera_timelaps_video_length">Durée de la vidéo</string>
+    <string name="camera_timelaps_times">%sx</string>
+    <string name="camera_timelaps_real_time">take %s</string>
+    <string name="camer_timelaps_off">Off</string>
+    <string name="firmware_without_network_tips">"Il est recommandé de mettre à niveau vers la version la plus récente pour une utilisation normale."</string>
     <string name="firmware_upgrade_failure">Mise à jour du firmware échouée !</string>
+    <string name="firmware_btn_update">Actualiser</string>
     <string name="firmware_only_downloaded">Téléchargé</string>
+    <string name="minute">minutes</string>
+    <string name="hour">heures</string>
+    <string name="day">jour</string>
+    <string name="title_activity_detail_grid_view">Vue en grille</string>
     <string name="xiaomi_update_dialog_title">%1$sNouvelle version</string>
     <string name="xiaomi_update_dialog_message">"Nous vous recommandons d'installer la dernière version%1$s
 Size: %2$s"</string>
