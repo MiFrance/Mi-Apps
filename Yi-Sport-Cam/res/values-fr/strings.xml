@@ -31,6 +31,15 @@
     <string name="commono_google_play_services_api_unavailable_text">"Cette application nécessite un ou plusieurs services Google Play qui ne sont pas disponibles actuellement. Veuillez contacter le développeur pour obtenir de l'aide."</string>
     <string name="common_google_play_services_sign_in_failed_title">Échec de la connexion</string>
     <string name="common_google_play_services_sign_in_failed_text">Erreur lors de la connexion au compte indiqué. Veuillez en sélectionner un autre.</string>
+    <string name="cube_ptr_pull_down">Tirez</string>
+    <string name="cube_ptr_pull_down_to_refresh">Tirez pour actualiser</string>
+    <string name="cube_ptr_release_to_refresh">Lacher pour actualiser</string>
+    <string name="cube_ptr_refreshing">Mise à jour...</string>
+    <string name="cube_ptr_refresh_complete">Mis à jour.</string>
+    <string name="cube_ptr_last_update">dernière màj: </string>
+    <string name="cube_ptr_seconds_ago"> seconds ago</string>
+    <string name="cube_ptr_minutes_ago"> minutes ago</string>
+    <string name="cube_ptr_hours_ago"> hours ago</string>
     <string name="instapager_login_html" formatted="false">&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"> &lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\"> &lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\"> &lt;title>%s&lt;/title> &lt;style type=\"text/css\"> body{margin:0;padding:0} .inputstyle { -webkit-tap-highlight-color:rgba(255,255,255,0); width:100%%; height:44px; color:#000; background:0; border:0; font-size:16px; outline: none; -webkit-appearance:none } .btn { width:90%%; height:44px; line-height:44px; background:#A0C035; border:0; border-radius:4px; color:#fff; font-size:16px; text-align:center; margin-top:15px; display:block } .btn:disabled { background: #dddddd; } .error { color:red; } &lt;/style> &lt;/head> &lt;body> &lt;script type=\"text/javascript\"> function login(form){ var u=form[\"u\"].value,p=form[\"p\"].value; if(!u || !p) return false; form[\"s\"].disabled = true; return true; } &lt;/script> &lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\"> %s &lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\"> &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/> &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/> &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/> &lt;/div> &lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\" %s \" class=\"btn\"/>&lt;/p> &lt;/form> &lt;/body> &lt;/html></string>
     <string name="cancel">Annuler</string>
     <string name="finish">Terminé</string>
@@ -189,6 +198,7 @@ Status"</string>
     <string name="tv_burst_five_per_sec">5p/s</string>
     <string name="tv_burst_seven_per_sec">7p/s</string>
     <string name="tv_burst_seven_per_two_sec">7p/2s</string>
+    <string name="tvGallery">Gallerie</string>
     <string name="tvPhoto">Photos</string>
     <string name="tvVideo">Vidéos</string>
     <string name="tvDownLoad">Téléchargements</string>
@@ -241,6 +251,8 @@ Status"</string>
     <string name="tvCurrentVideo">1/1</string>
     <string name="tvVideoDownload">Télécharger</string>
     <string name="tvVideoDelete">Suppirmer</string>
+    <string name="tvVideoPintu">Puzzle</string>
+    <string name="splendid_spots">Points forts</string>
     <string name="tvCurrentPosition">00:00:00</string>
     <string name="tvDuration">00:00:00</string>
     <string name="video_qulity_choose_prompt">Version de la vidéo</string>
@@ -321,6 +333,7 @@ Status"</string>
     <string name="record_failed">Enregistrement impossible.</string>
     <string name="quick_record_failed">Capture impossible.</string>
     <string name="file_downloading">Arrêtez le téléchargement avec de supprimer le fichier de la liste.</string>
+    <string name="login_failed">Erreur de login!</string>
     <string name="no_sd_card">Pas de carte SD trouvée.</string>
     <string name="sd_card_remove">La carte SD a été enlevée.</string>
     <string name="sd_card_inserd">La carte SD a été insérée.</string>
@@ -330,6 +343,7 @@ Status"</string>
     <string name="piv_issue">Capture impossible.</string>
     <string name="system_busy">La système est occupé</string>
     <string name="operation_failed">Échec du traitement.</string>
+    <string name="file_download_failed">[Error code:%d] Téléchargement impossible</string>
     <string name="sd_card_status">Etat de la carte SD</string>
     <string name="tv_normal">Normal</string>
     <string name="tv_timelapes">Time lapse</string>
@@ -413,6 +427,7 @@ Status"</string>
     <string name="firware_upgrade_patient">La mise à jour est en cours...</string>
     <string name="firmware_upgrade_cautions">"Un bourdonnement se fait entendre pendant la mise à jour de la caméra. La mise à jour sera terminée après quelques Bips rapide et la caméra s'éteindra automatiquement."</string>
     <string name="firmware_upgrade_progress">%d%% transféré</string>
+    <string name="firmware_upgrade_failure">Mise à jour échouée!</string>
     <string name="app_upgrade_title">"Mise à jour de l'application disponible"</string>
     <string name="app_upgrade_button">Télécharger</string>
     <string name="app_download_title">"Téléchargement de l'application..."</string>
@@ -537,6 +552,10 @@ Status"</string>
     <string name="prompt_should_reconnect_to_camera">Voulez-vous vous reconnecter à la caméra ?</string>
     <string name="button_reconnect">Reconnection</string>
     <string name="button_back_to_home">Retour</string>
+    <string name="video_uploading">Téléchargement de la vidéo</string>
+    <string name="prompt_video_uploading">En cours...</string>
+    <string name="uploading">En cours...</string>
+    <string name="no_network_connection">Pas de connection réseau...</string>
     <string name="feedback_content_hint">Comment pouvons-nous vous aider ou améliorer nos services ?</string>
     <string name="feedback_contact_hint">Email</string>
     <string name="please_input_contact">Vos informations de contact</string>
@@ -587,6 +606,7 @@ Status"</string>
     <string name="get_latest_firmeware_info">Recherche de la version du firmware…</string>
     <string name="connect_camera_first">"Impossible d'avoir des informations sur le firmware, connecter la caméra"</string>
     <string name="firmware_update_info">Version du firmware</string>
+    <string name="select_video">Sélectionnez une vidéo</string>
     <string name="faq_common_sense">Problèmes courants</string>
     <string name="faq_connect">Connection</string>
     <string name="faq_photo_record">Photo video</string>
@@ -625,6 +645,8 @@ Status"</string>
  
  Vous pouvez aussi mettre à jour votre caméra manuellement sur PC/Mac 
  Visitez le site : http://www.xiaoyi.com/update/sports"</string>
+    <string name="firmware_v">Firmware_V</string>
+    <string name="last_update">Dernière màj:</string>
     <string name="share_to_person">Partager avec vos amis</string>
     <string name="share_to_group">Partager avec votre groupe</string>
     <string name="share_to_all">Partager avec tout le monde</string>
@@ -648,6 +670,7 @@ de restauration 1234567890"</string>
     <string name="upgrade_help">"Voir l'aide"</string>
     <string name="understand">Ok</string>
     <string name="firmware_downloaded">v%s Téléchargé</string>
+    <string name="firmware_only_downloaded">Téléchargé</string>
     <string name="firmware_tip_downloaded">Nouveau</string>
     <string name="firmware_downloading">Téléchargement (%s%%)</string>
     <string name="firmware_pausing">Pause (%s%%)</string>
@@ -659,17 +682,20 @@ de restauration 1234567890"</string>
     <string name="minutes_3">3 minutes</string>
     <string name="minutes_5">5 minutes</string>
     <string name="minutes_10">10 minutes</string>
+    <string name="minute">minutes</string>
+    <string name="hour">heures</string>
+    <string name="day">jour</string>
     <string name="faq_title">Questions</string>
     <string name="sns_guide_connect_camera">Connection de la caméra</string>
     <string name="switch_mode">Mode switch</string>
     <string name="exit_cancle_firmware_download">Quitter suspendra le téléchargement, voulez-vous continuer ?</string>
+    <string name="title_activity_detail_grid_view">Vue en grille</string>
     <string name="camera_timelaps_internal">Intervale</string>
     <string name="camera_timelaps_video_length">Durée de la vidéo</string>
     <string name="camera_timelaps_times">%sx</string>
     <string name="camera_timelaps_real_time">take %s</string>
     <string name="camer_timelaps_off">Off</string>
     <string name="firmware_without_network_tips">"Il est recommandé de mettre à niveau vers la version la plus récente pour une utilisation normale."</string>
-    <string name="firmware_upgrade_failure">Mise à jour du firmware échouée !</string>
     <string name="firmware_btn_update">Actualiser</string>
     <string name="firmware_only_downloaded">Téléchargé</string>
     <string name="minute">minutes</string>
