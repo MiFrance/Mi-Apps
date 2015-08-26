@@ -1,12 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="fw_ota_check">
+        <item>Vérification   </item>
+        <item>Vérification.  </item>
+        <item>Vérification.. </item>
+        <item>Vérification...</item>
+    </string-array>
+    <string-array name="fw_ota_prepare">
+        <item>Préparation   </item>
+        <item>Préparation.  </item>
+        <item>Préparation.. </item>
+        <item>Préparation...</item>
+    </string-array>
+    <string-array name="fw_ota_upgrade">
+        <item>Mise à jour   </item>
+        <item>Mise à jour.  </item>
+        <item>Mise à jour.. </item>
+        <item>Mise à jour...</item>
+    </string-array>
     <string-array name="weeks">
-        <item>Lundi</item>
-        <item>Mardi</item>
-        <item>Mercredi</item>
-        <item>Jeudi</item>
-        <item>Vendredi</item>
-        <item>Samedi</item>
-        <item>Dimanche</item>
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
     </string-array>
 </resources>
